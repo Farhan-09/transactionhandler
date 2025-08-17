@@ -59,7 +59,7 @@ GET /delete/:filename → Delete a ledger file
 
 Clone the repo
 
-git clone <your-repo-url>
+git clone https://github.com/Farhan-09/transactionhandler.git
 cd ledger-pro
 
 
